@@ -1,10 +1,9 @@
 import './App.css'
-import ToDoList from './assets/ToDoList'
+import ToDoList from '../components/ToDoList.jsx'
 
 
 function App() {
   
-
   return (
     <>
       <ToDoList/>
